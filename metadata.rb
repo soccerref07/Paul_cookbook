@@ -1,6 +1,6 @@
 name 'paul_cookbook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Paul Romano'
+maintainer_email 'paul@@cohesity.com'
 license 'all_rights'
 description 'Installs/Configures paul_cookbook'
 long_description 'Installs/Configures paul_cookbook'
